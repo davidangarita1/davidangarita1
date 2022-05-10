@@ -9,7 +9,7 @@
     ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3&logoColor=#E34F26)
     ![SASS](https://img.shields.io/badge/-SASS-0A1A2F?style=flat&logo=Sass&logoColor=#CC6699)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=JavaScript&logoColor=#F7E018)
-    [TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=TypeScript&logoColor=#F7E018)
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=TypeScript&logoColor=#F7E018)
 
 -   Libraries: 
     ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
