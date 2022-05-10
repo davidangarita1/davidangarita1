@@ -1,10 +1,10 @@
-<h2 align="center">¡Hi! I'm David Angarita 🧑‍💻 (<a href="https://github.com/davidangarita1" target="blank">davidangarita1</a>)</h2>
+<h2 align="center">¡Hi! I'm David Angarita 🧑‍💻💻👨‍🎓 (<a href="https://github.com/davidangarita1" target="blank">davidangarita1</a>)</h2>
 
 <p align="center" style="font-size:15;"><strong>Full-Stack Developer </strong> passionate about <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> web technologies.<br /> I specialize in applications developed with <strong><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"> React</strong> and other <strong>JavaScript <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> libraries.</strong></p>
 
 ## Frontend
 
--   Frontend technologies: 
+-   Technologies: 
     ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=HTML5&logoColor=#E34F26)
     ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3&logoColor=#E34F26)
     ![SASS](https://img.shields.io/badge/-SASS-0A1A2F?style=flat&logo=Sass&logoColor=#CC6699)
@@ -26,7 +26,7 @@
 
 ## Backend
 
--   Backend technologies: 
+-   Technologies: 
     ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
     ![Spring](https://img.shields.io/badge/-Spring-0A1A2F?style=flat&logo=Spring&logoColor=#F7E018)
     ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=Python&logoColor=#F7E018)
