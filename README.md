@@ -1,6 +1,6 @@
 <h2 align="center">¡Hi! I'm David Angarita 🧑‍💻💻👨‍🎓 (<a href="https://github.com/davidangarita1" target="blank">davidangarita1</a>)</h2>
 
-<p align="center" style="font-size:15;"><strong>Full-Stack Developer </strong> passionate about <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> web technologies.<br /> I specialize in applications developed with <strong><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"> React</strong> and other <strong>JavaScript <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> libraries.</strong></p>
+<p align="center" style="font-size:18;"><strong>Full-Stack Developer </strong> passionate about <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> web technologies.<br /> I specialize in applications developed with <strong><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"> React</strong> and other <strong>JavaScript <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> libraries.</strong></p>
 
 ## Frontend
 
