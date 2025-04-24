@@ -14,7 +14,6 @@
 -   Libraries: 
     ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
     ![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=Redux&logoColor=#764ABC)
-    ![React Router](https://img.shields.io/badge/-React%20Router-0A1A2F?style=flat&logo=React%20Router&logoColor=#764ABC)
 
 -   Frameworks CSS: 
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=Bootstrap&logoColor=#F7E018)
@@ -27,8 +26,6 @@
 ## Backend
 
 -   Technologies: 
-    ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
-    ![Spring](https://img.shields.io/badge/-Spring-0A1A2F?style=flat&logo=Spring&logoColor=#F7E018)
     ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=Python&logoColor=#F7E018)
     ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
 
@@ -37,14 +34,10 @@
     ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase&logoColor=#00d8fd)
     ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
 
--   Testing: 
-    ![JUnit](https://img.shields.io/badge/-JUnit-0A1A2F?style=flat&logo=JUnit&logoColor=#C21325)
-
 ## Tools: 
 -   Version control: 
     ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-    ![Gitlab](https://img.shields.io/badge/-Gitlab-0A1A2F?style=flat&logo=gitlab)
 
 -   Documentation: 
     ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
