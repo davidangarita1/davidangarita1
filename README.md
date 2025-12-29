@@ -42,11 +42,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidangarita1&show_icons=true&theme=radical&hide_border=true" alt="David Angarita GitHub stats">
-</p>
-
----
