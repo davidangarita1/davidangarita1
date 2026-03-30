@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A2F,100:00D8FD&height=200&section=header&text=David%20Angarita&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%26%20Python%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
-
 <!-- Texto animado -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D8FD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+David+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%26+Python+Enthusiast+%F0%9F%90%8D;Always+learning+new+things+%F0%9F%93%9A;Open-Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG"/>
 
@@ -93,21 +90,16 @@ const david = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davidangarita1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FD&icon_color=00D8FD&text_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidangarita1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FD&text_color=ffffff&langs_count=8" height="165"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=davidangarita1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D8FD&fire=FF6B6B&currStreakLabel=00D8FD" width="500"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## � Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/davidangarita1/davidangarita1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidangarita1&bg_color=0D1117&color=00D8FD&line=00D8FD&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
